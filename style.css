@@ -1,0 +1,27 @@
+body{
+    font-family: 'Otomanopee One', sans-serif;
+}
+h1{
+    font-size: 30px;
+}
+.red{
+    color: crimson;
+}
+section{
+    display: flex;
+}
+.Half-width{
+    width: 50%;
+    padding: 5%;
+}
+.Half-width img{
+    width: 100%;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(rgb(90, 190, 230),rgb(235, 134, 151));
+    padding: 8px 20px;
+    color: darkmagenta;
+    font-weight: 700;
+    border-radius: 8px;
+}
