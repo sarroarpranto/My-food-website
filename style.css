@@ -12,7 +12,7 @@ section{
 }
 .Half-width{
     width: 50%;
-    padding: 4%;
+    padding: 3%;
 }
 .Half-width img{
     width: 100%;
@@ -51,7 +51,34 @@ section{
 }
 .experiance{
     box-shadow: 5px 5px 20px gray;
-    margin-right: 4%;
-    margin-right: 4%;
-    
+    margin-right: 3%;
+    margin-left: 3%;
+    border-radius: 20px;
+}
+h4{
+    font-size: 30px;
+}
+.sky{
+    color: skyblue;
+}
+.white{
+    color: rgb(243, 235, 235);
+}
+.footer{
+    text-align: center;
+    background-color: rgb(1, 95, 95);
+    height: 130px;
+    border-radius: 10px;
+}
+.blank{
+    text-decoration: none;
+    background-image: linear-gradient(orange,tomato);
+    color: indigo;
+    padding: 8px 20px;
+    font-weight: 700;
+    border-radius: 15px;
+}
+.background-imge{
+    background-image: url(images/Frame\ 59.jpg);
+    background-repeat: no-repeat;
 }
