@@ -23,5 +23,19 @@ section{
     padding: 8px 20px;
     color: darkmagenta;
     font-weight: 700;
-    border-radius: 8px;
+    border-radius: 15px;
+}
+.background{
+    background-image: url(images/7.png);
+}
+.orange{
+    color: darkorange;
+}
+.go-button{
+    text-decoration: none;
+    background-image: linear-gradient(rgba(85, 25, 224, 0.911),rgb(18, 204, 204));
+    color: darkred;
+    padding: 8px 20px;
+    font-weight: 700;
+    border-radius: 15px;
 }
